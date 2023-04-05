@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+# fonts 
+
+https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
