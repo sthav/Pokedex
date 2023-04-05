@@ -86,7 +86,6 @@ class App extends React.Component<any, AppState> {
 
         this.setState({ selectedPokemon });
     }
-
     render() {
         return (<div className="App">
             <h1>Pokedex</h1>
